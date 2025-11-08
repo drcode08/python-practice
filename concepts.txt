@@ -1,0 +1,72 @@
+✅ *50 Must-Know Python Concepts for Interviews* 🐍💼
+
+📍 *Python Basics*  
+1. What is Python?  
+2. Python 2 vs 3  
+3. Variables & Data Types  
+4. Operators  
+5. Type Conversion & Casting  
+
+📍 *Control Flow*  
+6. if-else statements  
+7. for & while loops  
+8. break, continue, pass  
+9. Ternary operator  
+10. List comprehensions  
+
+📍 *Functions & Scope*  
+11. Defining functions  
+12. *args & **kwargs  
+13. Global vs Local scope  
+14. Lambda functions  
+15. Recursion  
+
+📍 *Object-Oriented Programming (OOP)*  
+16. Classes & Objects  
+17. Constructor (_init_)  
+18. Inheritance  
+19. Encapsulation  
+20. Polymorphism  
+
+📍 *Exception Handling*  
+21. try-except-finally  
+22. raise keyword  
+23. Custom exceptions  
+24. Common errors (TypeError, ValueError, etc.)  
+25. Assertions  
+
+📍 *Data Structures*  
+26. Lists, Tuples, Sets, Dicts  
+27. List vs Tuple  
+28. Set vs Frozenset  
+29. Dictionary methods  
+30. Iterating over data structures  
+
+📍 *Strings & Files*  
+31. String methods & slicing  
+32. f-strings & formatting  
+33. Reading & Writing files  
+34. Context Managers (with)  
+35. JSON handling  
+
+📍 *Advanced Python*  
+36. Decorators  
+37. Generators & yield  
+38. Iterators & Iterable  
+39. Modules & Packages  
+40. Virtual Environments (venv)  
+
+📍 *Libraries & Tools*
+41. NumPy / Pandas basics  
+42. Regular Expressions (re)  
+43. Requests (API calls)  
+44. Logging  
+45. Unit Testing (unittest/pytest)  
+
+📍 *Interview Essentials*  
+46. List vs Set vs Dict performance  
+47. Shallow vs Deep copy  
+48. Mutable vs Immutable  
+49. Pythonic code best practices  
+50. Version control (Git + GitHub)
+
